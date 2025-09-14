@@ -1,5 +1,6 @@
 Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.  
-It is an improved version of the vi editor, distributed with most UNIX systems.
+It is an improved version of the vi editor, distributed with most UNIX systems.  
+
 Vim has multiple modes:  
 - Normal mode is for navigation and editing commands.  
 - Insert mode is for typing text.  
@@ -7,6 +8,12 @@ Vim has multiple modes:
 - Command-line mode is for entering commands like saving or quitting.  
 
 Because of its efficiency, Vim is often called a "programmer's editor."  
-It is available on almost every operating system and is widely used by developers and system administrators.  
+It is available on almost every operating system and is widely used by developers and system administrators. 
  
- The first problem : git push / $ git push --set-upstream origin VIM The second problem : private / Code Owners
+ The second problem : private / Code Owners
+ The first problem : git push / $ git push --set-upstream origin VIM
+ The first problem : git push / $ git push --set-upstream origin VIM
+ The first problem : git push / $ git push --set-upstream origin VIM
+ The first problem : git push / $ git push --set-upstream origin VIM
+ The first problem : git push / $ git push --set-upstream origin VIM
+ The second problem : private / Code Owners
