@@ -10,4 +10,6 @@ Because of its efficiency, Vim is often called a "programmer's editor."
 It is available on almost every operating system and is widely used by developers and system administrators.  
  
  The first problem : git push / $ git push --set-upstream origin VIM
+ The second problem : private / Code Owners
+
 
