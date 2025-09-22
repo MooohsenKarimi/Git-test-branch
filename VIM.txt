@@ -14,3 +14,8 @@ The first problem : git push / $ git push --set-upstream origin VIM
 The second problem : private / Code Owners
 
 
+erfan:
+Vim is a powerful and widely used text editor available on most operating systems.  
+It is known for its speed, efficiency, and extensive set of features for developers.  
+Although Vim’s learning curve is steep at first, mastering its shortcuts can greatly boost productivity.  
+
